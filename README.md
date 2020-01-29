@@ -1,12 +1,9 @@
-![PetCards](https://github.com/morteify/SirTet/blob/master/SirTet.svg)
+![PetCards](https://github.com/KrzysztofTomaszek/PetCards/blob/master/Assets/_Sprites/Backgrounds/CardIcon.png)
 # PetCards
 
 # Description
 A card game project based on the Unity engine created to pass studies subject.
  
-# Usage
-It is Unity projects. 
-
 # Contributing
 Tomaszek Krzystof</br>
 Sczesiak Patryk</br>
