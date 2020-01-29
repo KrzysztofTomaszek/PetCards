@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b77664930af11ee4b918b4c4fa4cdfae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chooseController: {instanceID: 0}
+  - fightController: {instanceID: 0}
+  - scoreController: {instanceID: 0}
+  - SetPlayerNickController: {instanceID: 0}
+  - buttonClickSfx: {fileID: 8300000, guid: 2ff35fa473d01422cbaddcc143c0b2eb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
